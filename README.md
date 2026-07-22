@@ -1,4 +1,4 @@
-#onxx-x143
+onxx-x143
 
 ![install](https://raw.githubusercontent.com/onxx-x143/Bugscan/main/onxx.gif)
 
