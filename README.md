@@ -13,7 +13,7 @@ Java Android APK Builder Tool — Bash script jo naya Java Android project gener
 ## Installation
 
 ```bash
-git clone https://github.com/APK-GET/onxx-x143.git
+git clone https://github.com/onxx-x143/APK-GET.git
 cd APK-GET
 chmod +x main.sh
 bash main.sh
