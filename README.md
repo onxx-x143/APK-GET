@@ -1,6 +1,6 @@
 onxx-x143
 
-![install](https://raw.githubusercontent.com/onxx-x143/Bugscan/main/onxx.gif)
+![install](https://raw.githubusercontent.com/onxx-x143/APK-GET/main/onxx.gif)
 
 Java Android APK Builder Tool — Bash script jo naya Java Android project generate karta hai (MainActivity.java, layouts, banner ke saath) aur Gradle se APK build karta hai.
 
